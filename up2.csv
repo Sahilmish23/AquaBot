@@ -1,0 +1,837 @@
+Sl. No,State,District,block,Condition 2024
+1,Uttar Pradesh,Agra,Achhnera,Semi_Critical
+2,Uttar Pradesh,Agra,Akola,Over_Exploited
+3,Uttar Pradesh,Agra,Bah,Critical
+4,Uttar Pradesh,Agra,Barauli Ahir,Over_Exploited
+5,Uttar Pradesh,Agra,Bichpuri,Over_Exploited
+6,Uttar Pradesh,Agra,Etmadpur,Over_Exploited
+7,Uttar Pradesh,Agra,Fatehabad,Over_Exploited
+8,Uttar Pradesh,Agra,Fatehpur Sikri,Over_Exploited
+9,Uttar Pradesh,Agra,Jagner,Semi_Critical
+10,Uttar Pradesh,Agra,Jaitpur Kalan,Semi_Critical
+11,Uttar Pradesh,Agra,Khandauli,Over_Exploited
+12,Uttar Pradesh,Agra,Kheragarh,Critical
+13,Uttar Pradesh,Agra,Pinahat,Semi_Critical
+14,Uttar Pradesh,Agra,Saiyana,Over_Exploited
+15,Uttar Pradesh,Agra,Shamsabad,Over_Exploited
+16,Uttar Pradesh,Agra,Agra City,Over_Exploited
+17,Uttar Pradesh,Aligarh,Akrabad,Safe
+18,Uttar Pradesh,Aligarh,Atrauli,Safe
+19,Uttar Pradesh,Aligarh,Bijauli,Safe
+20,Uttar Pradesh,Aligarh,Chandaus,Semi_Critical
+21,Uttar Pradesh,Aligarh,Dhanipur,Safe
+22,Uttar Pradesh,Aligarh,Gangiri,Semi_Critical
+23,Uttar Pradesh,Aligarh,Gonda,Semi_Critical
+24,Uttar Pradesh,Aligarh,Iglas,Critical
+25,Uttar Pradesh,Aligarh,Jawa Sikandairpur,Semi_Critical
+26,Uttar Pradesh,Aligarh,Khair,Semi_Critical
+27,Uttar Pradesh,Aligarh,Lodha,Semi_Critical
+28,Uttar Pradesh,Aligarh,Tappal,Safe
+29,Uttar Pradesh,Aligarh,Aligarh City,Over_Exploited
+30,Uttar Pradesh,Ambedkar Nagar,Akbarpur,Safe
+31,Uttar Pradesh,Ambedkar Nagar,Baskhari,Safe
+32,Uttar Pradesh,Ambedkar Nagar,Bhiti,Safe
+33,Uttar Pradesh,Ambedkar Nagar,Bhiyaon,Safe
+34,Uttar Pradesh,Ambedkar Nagar,Jahangirgani,Safe
+35,Uttar Pradesh,Ambedkar Nagar,Jalalpur,Safe
+36,Uttar Pradesh,Ambedkar Nagar,Katehari,Safe
+37,Uttar Pradesh,Ambedkar Nagar,Ramnagar,Safe
+38,Uttar Pradesh,Ambedkar Nagar,Tanda,Safe
+39,Uttar Pradesh,Amethi,Amethi,Safe
+40,Uttar Pradesh,Amethi,Bahadurpur,Safe
+41,Uttar Pradesh,Amethi,Bhadar,Semi_Critical
+42,Uttar Pradesh,Amethi,Bhetua,Safe
+43,Uttar Pradesh,Amethi,Gauriganj,Safe
+44,Uttar Pradesh,Amethi,Jagdishpur,Safe
+45,Uttar Pradesh,Amethi,Jamo,Safe
+46,Uttar Pradesh,Amethi,Musafirkhana,Safe
+47,Uttar Pradesh,Amethi,Sangrampur,Semi_Critical
+48,Uttar Pradesh,Amethi,Shahgarh,Safe
+49,Uttar Pradesh,Amethi,Shukul Bazar,Safe
+50,Uttar Pradesh,Amethi,Singhpur,Safe
+51,Uttar Pradesh,Amethi,Tiloi,Safe
+52,Uttar Pradesh,Amroha,Dhanaura,Critical
+53,Uttar Pradesh,Amroha,Gajraula,Critical
+54,Uttar Pradesh,Amroha,Hasanpur,Semi_Critical
+55,Uttar Pradesh,Amroha,Joya,Over_Exploited
+56,Uttar Pradesh,Amroha,Amroha,Semi_Critical
+57,Uttar Pradesh,Amroha,Gangeshwari,Semi_Critical
+58,Uttar Pradesh,Auraiya,Achhalda,Safe
+59,Uttar Pradesh,Auraiya,Ajitmal,Safe
+60,Uttar Pradesh,Auraiya,Aurraiya,Safe
+61,Uttar Pradesh,Auraiya,Bhagyanagar,Safe
+62,Uttar Pradesh,Auraiya,Bidhuna,Safe
+63,Uttar Pradesh,Auraiya,Erwa Katra,Safe
+64,Uttar Pradesh,Auraiya,Sahar,Safe
+65,Uttar Pradesh,Ayodhya,Amaniganj,Safe
+66,Uttar Pradesh,Ayodhya,Bikapur,Safe
+67,Uttar Pradesh,Ayodhya,Harringtanganj,Safe
+68,Uttar Pradesh,Ayodhya,Masodha,Safe
+69,Uttar Pradesh,Ayodhya,Maya Bazar,Safe
+70,Uttar Pradesh,Ayodhya,Milkipur,Safe
+71,Uttar Pradesh,Ayodhya,Pura Bazar,Safe
+72,Uttar Pradesh,Ayodhya,Sohawal,Safe
+73,Uttar Pradesh,Ayodhya,Tarun,Safe
+74,Uttar Pradesh,Ayodhya,Mawai,Safe
+75,Uttar Pradesh,Ayodhya,Rudauli,Safe
+76,Uttar Pradesh,Azamgarh,Ahiraula,Safe
+77,Uttar Pradesh,Azamgarh,Atraulia,Safe
+78,Uttar Pradesh,Azamgarh,Azamatgarh,Safe
+79,Uttar Pradesh,Azamgarh,Bilhariyaganj,Safe
+80,Uttar Pradesh,Azamgarh,Haraiya,Safe
+81,Uttar Pradesh,Azamgarh,Jahanganj,Safe
+82,Uttar Pradesh,Azamgarh,Koilsa,Safe
+83,Uttar Pradesh,Azamgarh,Lalganj,Safe
+84,Uttar Pradesh,Azamgarh,Maharajganj,Safe
+85,Uttar Pradesh,Azamgarh,Martinganj,Safe
+86,Uttar Pradesh,Azamgarh,Mehnagar,Safe
+87,Uttar Pradesh,Azamgarh,Mirzapur,Safe
+88,Uttar Pradesh,Azamgarh,Mohammadpur,Safe
+89,Uttar Pradesh,Azamgarh,Palhana,Safe
+90,Uttar Pradesh,Azamgarh,Palhani,Safe
+91,Uttar Pradesh,Azamgarh,Pawai,Safe
+92,Uttar Pradesh,Azamgarh,Phulpur,Safe
+93,Uttar Pradesh,Azamgarh,Rani Ki Sarai,Safe
+94,Uttar Pradesh,Azamgarh,Sathiyaon,Safe
+95,Uttar Pradesh,Azamgarh,Tahbarpur,Safe
+96,Uttar Pradesh,Azamgarh,Tarwa,Safe
+97,Uttar Pradesh,Azamgarh,Thekma,Safe
+98,Uttar Pradesh,Bagpat,Baghpat,Semi_Critical
+99,Uttar Pradesh,Bagpat,Baraut,Semi_Critical
+100,Uttar Pradesh,Bagpat,Binauli,Over_Exploited
+101,Uttar Pradesh,Bagpat,Chhaprauli,Semi_Critical
+102,Uttar Pradesh,Bagpat,Khekra,Over_Exploited
+103,Uttar Pradesh,Bagpat,Pilana,Over_Exploited
+104,Uttar Pradesh,Bahraich,Balha,Safe
+105,Uttar Pradesh,Bahraich,Bisheshwarganj,Safe
+106,Uttar Pradesh,Bahraich,Chittaura,Safe
+107,Uttar Pradesh,Bahraich,Fakharpur,Safe
+108,Uttar Pradesh,Bahraich,Huzurpur,Safe
+109,Uttar Pradesh,Bahraich,Jarwal,Safe
+110,Uttar Pradesh,Bahraich,Kaisarganj,Safe
+111,Uttar Pradesh,Bahraich,Mahasi,Safe
+112,Uttar Pradesh,Bahraich,Mihipurwa,Safe
+113,Uttar Pradesh,Bahraich,Nawabganj,Safe
+114,Uttar Pradesh,Bahraich,Payagpur,Safe
+115,Uttar Pradesh,Bahraich,Risiya,Safe
+116,Uttar Pradesh,Bahraich,Shivpur,Safe
+117,Uttar Pradesh,Bahraich,Tejwapur,Safe
+118,Uttar Pradesh,Ballia,Bairia Khera,Safe
+119,Uttar Pradesh,Ballia,Bansdih,Safe
+120,Uttar Pradesh,Ballia,Belhari,Safe
+121,Uttar Pradesh,Ballia,Beruar,Safe
+122,Uttar Pradesh,Ballia,Chilkahar,Safe
+123,Uttar Pradesh,Ballia,Dubahand,Safe
+124,Uttar Pradesh,Ballia,Garwar,Safe
+125,Uttar Pradesh,Ballia,Hanumanganj Brahmin,Safe
+126,Uttar Pradesh,Ballia,Maniyar,Safe
+127,Uttar Pradesh,Ballia,Murli Chhapra,Safe
+128,Uttar Pradesh,Ballia,Nawa Nagar,Safe
+129,Uttar Pradesh,Ballia,Negara,Safe
+130,Uttar Pradesh,Ballia,Pandah,Safe
+131,Uttar Pradesh,Ballia,Rasra,Safe
+132,Uttar Pradesh,Ballia,Reoti,Safe
+133,Uttar Pradesh,Ballia,Siar,Safe
+134,Uttar Pradesh,Ballia,Sohaon,Safe
+135,Uttar Pradesh,Balrampur,Balrampur,Safe
+136,Uttar Pradesh,Balrampur,Gaindas Buzurg,Safe
+137,Uttar Pradesh,Balrampur,Gainsara,Safe
+138,Uttar Pradesh,Balrampur,Harraiya Satgharwa,Safe
+139,Uttar Pradesh,Balrampur,Pachperwa,Safe
+140,Uttar Pradesh,Balrampur,Rehra Bazar,Safe
+141,Uttar Pradesh,Balrampur,Shri Datt Ganj,Safe
+142,Uttar Pradesh,Balrampur,Tulsipur,Safe
+143,Uttar Pradesh,Balrampur,Utraula,Safe
+144,Uttar Pradesh,Banda,Baberu,Semi_Critical
+145,Uttar Pradesh,Banda,Barokhar,Safe
+146,Uttar Pradesh,Banda,Bisanda,Safe
+147,Uttar Pradesh,Banda,Jaspura,Semi_Critical
+148,Uttar Pradesh,Banda,Kamasin,Safe
+149,Uttar Pradesh,Banda,Mahuva,Safe
+150,Uttar Pradesh,Banda,Naraini,Semi_Critical
+151,Uttar Pradesh,Banda,Tindwari,Semi_Critical
+152,Uttar Pradesh,Barabanki,Bani Kodar,Safe
+153,Uttar Pradesh,Barabanki,Banki,Safe
+154,Uttar Pradesh,Barabanki,Dariyabad,Safe
+155,Uttar Pradesh,Barabanki,Dewa,Safe
+156,Uttar Pradesh,Barabanki,Fatehpur,Safe
+157,Uttar Pradesh,Barabanki,Haidergarh,Safe
+158,Uttar Pradesh,Barabanki,Harak,Safe
+159,Uttar Pradesh,Barabanki,Masauli,Safe
+160,Uttar Pradesh,Barabanki,Nindaura,Safe
+161,Uttar Pradesh,Barabanki,Pure Dalai,Safe
+162,Uttar Pradesh,Barabanki,Ramnagar,Safe
+163,Uttar Pradesh,Barabanki,Siddhaur,Safe
+164,Uttar Pradesh,Barabanki,Sirauli Gauspur,Safe
+165,Uttar Pradesh,Barabanki,Suratganj,Safe
+166,Uttar Pradesh,Barabanki,Trivediganj,Safe
+167,Uttar Pradesh,Bareilly,Alampur Jafarabad,Critical
+168,Uttar Pradesh,Bareilly,Baheri,Safe
+169,Uttar Pradesh,Bareilly,Bhadpura,Safe
+170,Uttar Pradesh,Bareilly,Bhojpura,Safe
+171,Uttar Pradesh,Bareilly,Bhutah,Safe
+172,Uttar Pradesh,Bareilly,Bitheri Chainpur,Safe
+173,Uttar Pradesh,Bareilly,Faridpur,Safe
+174,Uttar Pradesh,Bareilly,Fatehganj,Semi_Critical
+175,Uttar Pradesh,Bareilly,Kyara,Safe
+176,Uttar Pradesh,Bareilly,Majhgawa,Semi_Critical
+177,Uttar Pradesh,Bareilly,Meerganj,Safe
+178,Uttar Pradesh,Bareilly,Nawabganj,Safe
+179,Uttar Pradesh,Bareilly,Ramnagar,Semi_Critical
+180,Uttar Pradesh,Bareilly,Richha,Safe
+181,Uttar Pradesh,Bareilly,Shergarh,Safe
+182,Uttar Pradesh,Bareilly,Bareilly City,Over_Exploited
+183,Uttar Pradesh,Basti,Bahadurpur,Safe
+184,Uttar Pradesh,Basti,Bankati,Safe
+185,Uttar Pradesh,Basti,Basti Sadar,Safe
+186,Uttar Pradesh,Basti,Dubauliya,Safe
+187,Uttar Pradesh,Basti,Gaur,Safe
+188,Uttar Pradesh,Basti,Harraiya,Safe
+189,Uttar Pradesh,Basti,Kaptanganj,Safe
+190,Uttar Pradesh,Basti,Kudraha,Safe
+191,Uttar Pradesh,Basti,Parasrampur,Safe
+192,Uttar Pradesh,Basti,Ramnagar,Safe
+193,Uttar Pradesh,Basti,Rudhauli,Safe
+194,Uttar Pradesh,Basti,Salatua,Safe
+195,Uttar Pradesh,Basti,Saughat,Safe
+196,Uttar Pradesh,Basti,Vikramjot,Safe
+197,Uttar Pradesh,Bijnor,Afzalgarh,Safe
+198,Uttar Pradesh,Bijnor,Dhanpur (Alhepur),Safe
+199,Uttar Pradesh,Bijnor,Haldaur (Khari Jhalu),Safe
+200,Uttar Pradesh,Bijnor,Jaleelpur,Critical
+201,Uttar Pradesh,Bijnor,Kiratpur,Safe
+202,Uttar Pradesh,Bijnor,Kotwali,Safe
+203,Uttar Pradesh,Bijnor,Mohammadpur Deomal,Safe
+204,Uttar Pradesh,Bijnor,Najibabad,Safe
+205,Uttar Pradesh,Bijnor,Nehtaur (Aaku),Semi_Critical
+206,Uttar Pradesh,Bijnor,Noorpur,Semi_Critical
+207,Uttar Pradesh,Bijnor,Seohara (Budhanpur),Semi_Critical
+208,Uttar Pradesh,Budaun,Ambiapur,Over_Exploited
+209,Uttar Pradesh,Budaun,Asafpur,Critical
+210,Uttar Pradesh,Budaun,Bisauli,Critical
+211,Uttar Pradesh,Budaun,Dahgawan,Safe
+212,Uttar Pradesh,Budaun,Dataganj,Safe
+213,Uttar Pradesh,Budaun,Islamnagar,Over_Exploited
+214,Uttar Pradesh,Budaun,Jagat,Semi_Critical
+215,Uttar Pradesh,Budaun,Miaon,Semi_Critical
+216,Uttar Pradesh,Budaun,Quadar Chowk,Semi_Critical
+217,Uttar Pradesh,Budaun,Sahaswan,Semi_Critical
+218,Uttar Pradesh,Budaun,Salarpur,Semi_Critical
+219,Uttar Pradesh,Budaun,Samrer,Safe
+220,Uttar Pradesh,Budaun,Ujhani,Semi_Critical
+221,Uttar Pradesh,Budaun,Usawan,Safe
+222,Uttar Pradesh,Budaun,Wazirganj,Semi_Critical
+223,Uttar Pradesh,Bulandshahar,Agauta,Safe
+224,Uttar Pradesh,Bulandshahar,Anup Shahar,Semi_Critical
+225,Uttar Pradesh,Bulandshahar,Arnia Khurd,Critical
+226,Uttar Pradesh,Bulandshahar,Bhawan Bahadur Nagar,Over_Exploited
+227,Uttar Pradesh,Bulandshahar,Bulandshahar,Over_Exploited
+228,Uttar Pradesh,Bulandshahar,Danpur,Critical
+229,Uttar Pradesh,Bulandshahar,Debai,Semi_Critical
+230,Uttar Pradesh,Bulandshahar,Gulaothi,Over_Exploited
+231,Uttar Pradesh,Bulandshahar,Jahangirabad,Semi_Critical
+232,Uttar Pradesh,Bulandshahar,Khurja,Critical
+233,Uttar Pradesh,Bulandshahar,Lakhaothi,Semi_Critical
+234,Uttar Pradesh,Bulandshahar,Pahasu,Semi_Critical
+235,Uttar Pradesh,Bulandshahar,Shikarpur,Critical
+236,Uttar Pradesh,Bulandshahar,Siana,Over_Exploited
+237,Uttar Pradesh,Bulandshahar,Sikandrabad,Over_Exploited
+238,Uttar Pradesh,Bulandshahar,Unchagaon,Critical
+239,Uttar Pradesh,Chandauli,Barahani,Safe
+240,Uttar Pradesh,Chandauli,Chahniya,Safe
+241,Uttar Pradesh,Chandauli,Chakia,Semi_Critical
+242,Uttar Pradesh,Chandauli,Chandauli,Safe
+243,Uttar Pradesh,Chandauli,Dhanapur,Safe
+244,Uttar Pradesh,Chandauli,Naugarh,Safe
+245,Uttar Pradesh,Chandauli,Niyamatabad,Safe
+246,Uttar Pradesh,Chandauli,Sakaldiha,Safe
+247,Uttar Pradesh,Chandauli,Shahabganj,Safe
+248,Uttar Pradesh,Chitrakoot,Karwi,Critical
+249,Uttar Pradesh,Chitrakoot,Manikpur,Safe
+250,Uttar Pradesh,Chitrakoot,Mau,Semi_Critical
+251,Uttar Pradesh,Chitrakoot,Pahari,Semi_Critical
+252,Uttar Pradesh,Chitrakoot,Ramnagar,Semi_Critical
+253,Uttar Pradesh,Deoria,Bankata,Safe
+254,Uttar Pradesh,Deoria,Barhaj,Safe
+255,Uttar Pradesh,Deoria,Betalpur,Safe
+256,Uttar Pradesh,Deoria,Bhagalpur,Safe
+257,Uttar Pradesh,Deoria,Bhaluani,Safe
+258,Uttar Pradesh,Deoria,Bhatni,Safe
+259,Uttar Pradesh,Deoria,Bhatparani,Safe
+260,Uttar Pradesh,Deoria,Deoria Sadar,Safe
+261,Uttar Pradesh,Deoria,Desahi Deoria,Safe
+262,Uttar Pradesh,Deoria,Gauri Bazar,Safe
+263,Uttar Pradesh,Deoria,Lar,Safe
+264,Uttar Pradesh,Deoria,Pather Dewa,Safe
+265,Uttar Pradesh,Deoria,Rampur Karhani,Safe
+266,Uttar Pradesh,Deoria,Rudrapur,Safe
+267,Uttar Pradesh,Deoria,Salempur,Safe
+268,Uttar Pradesh,Deoria,Tarkulwa,Safe
+269,Uttar Pradesh,Etah,Aliganj,Semi_Critical
+270,Uttar Pradesh,Etah,Awagarh,Safe
+271,Uttar Pradesh,Etah,Jaithara,Semi_Critical
+272,Uttar Pradesh,Etah,Jalesar,Semi_Critical
+273,Uttar Pradesh,Etah,Marhara,Safe
+274,Uttar Pradesh,Etah,Nidhauli Kalan,Semi_Critical
+275,Uttar Pradesh,Etah,Sakit,Safe
+276,Uttar Pradesh,Etah,Shitalpur,Semi_Critical
+277,Uttar Pradesh,Etawah,Barahpura,Safe
+278,Uttar Pradesh,Etawah,Basrehar,Safe
+279,Uttar Pradesh,Etawah,Bharthna,Safe
+280,Uttar Pradesh,Etawah,Chakaranagar,Safe
+281,Uttar Pradesh,Etawah,Jaswantnagar,Safe
+282,Uttar Pradesh,Etawah,Mahewa,Safe
+283,Uttar Pradesh,Etawah,Sefai,Safe
+284,Uttar Pradesh,Etawah,Takha,Safe
+285,Uttar Pradesh,Farrukhabad,Barhpur,Semi_Critical
+286,Uttar Pradesh,Farrukhabad,Kaimganj,Safe
+287,Uttar Pradesh,Farrukhabad,Kamalganj,Semi_Critical
+288,Uttar Pradesh,Farrukhabad,Mohamadabad,Semi_Critical
+289,Uttar Pradesh,Farrukhabad,Nawabganj,Semi_Critical
+290,Uttar Pradesh,Farrukhabad,Rajepur,Safe
+291,Uttar Pradesh,Farrukhabad,Shamsabad,Safe
+292,Uttar Pradesh,Fatehpur,Airaya,Semi_Critical
+293,Uttar Pradesh,Fatehpur,Amauli,Semi_Critical
+294,Uttar Pradesh,Fatehpur,Asodhar,Safe
+295,Uttar Pradesh,Fatehpur,Bahua,Safe
+296,Uttar Pradesh,Fatehpur,Bhitaura,Over_Exploited
+297,Uttar Pradesh,Fatehpur,Deomai,Safe
+298,Uttar Pradesh,Fatehpur,Dhata,Safe
+299,Uttar Pradesh,Fatehpur,Haswa,Safe
+300,Uttar Pradesh,Fatehpur,Hathgaon,Safe
+301,Uttar Pradesh,Fatehpur,Khajuha,Semi_Critical
+302,Uttar Pradesh,Fatehpur,Malawan,Safe
+303,Uttar Pradesh,Fatehpur,Telyani,Semi_Critical
+304,Uttar Pradesh,Fatehpur,Vijayipur,Safe
+305,Uttar Pradesh,Firozabad,Aron,Critical
+306,Uttar Pradesh,Firozabad,Eka,Semi_Critical
+307,Uttar Pradesh,Firozabad,Firozabad,Over_Exploited
+308,Uttar Pradesh,Firozabad,Khairgarh(Hathwant),Over_Exploited
+309,Uttar Pradesh,Firozabad,Jasrana,Semi_Critical
+310,Uttar Pradesh,Firozabad,Madanpur,Semi_Critical
+311,Uttar Pradesh,Firozabad,Narkhi,Over_Exploited
+312,Uttar Pradesh,Firozabad,Shikohabad,Over_Exploited
+313,Uttar Pradesh,Firozabad,Tundla,Over_Exploited
+314,Uttar Pradesh,G.B.Nagar,Bisrakh,Over_Exploited
+315,Uttar Pradesh,G.B.Nagar,Dadri,Semi_Critical
+316,Uttar Pradesh,G.B.Nagar,Jewar,Critical
+317,Uttar Pradesh,Ghaziabad,Bhojpur,Over_Exploited
+318,Uttar Pradesh,Ghaziabad,Loni,Over_Exploited
+319,Uttar Pradesh,Ghaziabad,Muradnagar,Semi_Critical
+320,Uttar Pradesh,Ghaziabad,Razapur,Over_Exploited
+321,Uttar Pradesh,Ghaziabad,Gaziabad City,Over_Exploited
+322,Uttar Pradesh,Ghazipur,Bhadaura,Safe
+323,Uttar Pradesh,Ghazipur,Bhanwarkol,Safe
+324,Uttar Pradesh,Ghazipur,Birno,Safe
+325,Uttar Pradesh,Ghazipur,Deokali,Safe
+326,Uttar Pradesh,Ghazipur,Ghazipur,Safe
+327,Uttar Pradesh,Ghazipur,Jakhania,Safe
+328,Uttar Pradesh,Ghazipur,Karanda,Safe
+329,Uttar Pradesh,Ghazipur,Kasimabad,Safe
+330,Uttar Pradesh,Ghazipur,Manihari,Safe
+331,Uttar Pradesh,Ghazipur,Maradh,Safe
+332,Uttar Pradesh,Ghazipur,Mohammadabad,Safe
+333,Uttar Pradesh,Ghazipur,Revatipur,Safe
+334,Uttar Pradesh,Ghazipur,Sadat,Safe
+335,Uttar Pradesh,Ghazipur,Saidpur,Semi_Critical
+336,Uttar Pradesh,Ghazipur,Varachakwar,Safe
+337,Uttar Pradesh,Ghazipur,Zamania,Safe
+338,Uttar Pradesh,Gonda,Babhanjot,Safe
+339,Uttar Pradesh,Gonda,Belsar,Safe
+340,Uttar Pradesh,Gonda,Chhapia,Safe
+341,Uttar Pradesh,Gonda,Colonelganj,Safe
+342,Uttar Pradesh,Gonda,Haldharmau,Safe
+343,Uttar Pradesh,Gonda,Itia Thok,Safe
+344,Uttar Pradesh,Gonda,Jhanjhri,Safe
+345,Uttar Pradesh,Gonda,Katra Bazar,Safe
+346,Uttar Pradesh,Gonda,Mankapur,Safe
+347,Uttar Pradesh,Gonda,Mujhana,Safe
+348,Uttar Pradesh,Gonda,Nawabganj,Safe
+349,Uttar Pradesh,Gonda,Pandri Kripal,Safe
+350,Uttar Pradesh,Gonda,Paraspur,Safe
+351,Uttar Pradesh,Gonda,Rupaidiha,Safe
+352,Uttar Pradesh,Gonda,Tarabganj,Safe
+353,Uttar Pradesh,Gonda,Wazirganj,Safe
+354,Uttar Pradesh,Gorakhpur,Bansgaon,Safe
+355,Uttar Pradesh,Gorakhpur,Barahalganj,Safe
+356,Uttar Pradesh,Gorakhpur,Belghat,Safe
+357,Uttar Pradesh,Gorakhpur,Bhatahat,Safe
+358,Uttar Pradesh,Gorakhpur,Brahmpur,Safe
+359,Uttar Pradesh,Gorakhpur,Campierganj,Safe
+360,Uttar Pradesh,Gorakhpur,Chirgawan,Safe
+361,Uttar Pradesh,Gorakhpur,Gagaha,Safe
+362,Uttar Pradesh,Gorakhpur,Gola,Safe
+363,Uttar Pradesh,Gorakhpur,Jangal Kaudia,Safe
+364,Uttar Pradesh,Gorakhpur,Kauriram,Safe
+365,Uttar Pradesh,Gorakhpur,Khajni,Safe
+366,Uttar Pradesh,Gorakhpur,Khorabar,Safe
+367,Uttar Pradesh,Gorakhpur,Pali,Safe
+368,Uttar Pradesh,Gorakhpur,Pipraich,Safe
+369,Uttar Pradesh,Gorakhpur,Piprauli,Safe
+370,Uttar Pradesh,Gorakhpur,Sahjanwa,Safe
+371,Uttar Pradesh,Gorakhpur,Sardar Nagar,Safe
+372,Uttar Pradesh,Gorakhpur,Urua,Safe
+373,Uttar Pradesh,Gorakhpur,Bharohiya,Safe
+374,Uttar Pradesh,Hamirpur,Gohand,Semi_Critical
+375,Uttar Pradesh,Hamirpur,Kurara,Safe
+376,Uttar Pradesh,Hamirpur,Maudaha,Safe
+377,Uttar Pradesh,Hamirpur,Muskara,Safe
+378,Uttar Pradesh,Hamirpur,Rath,Safe
+379,Uttar Pradesh,Hamirpur,Sarila,Safe
+380,Uttar Pradesh,Hamirpur,Sumerpur,Semi_Critical
+381,Uttar Pradesh,Hapur,Dholana,Semi_Critical
+382,Uttar Pradesh,Hapur,Garh,Critical
+383,Uttar Pradesh,Hapur,Hapur,Critical
+384,Uttar Pradesh,Hapur,Simbholi,Critical
+385,Uttar Pradesh,Hardoi,Ahirori,Safe
+386,Uttar Pradesh,Hardoi,Bawan,Safe
+387,Uttar Pradesh,Hardoi,Bharawan,Safe
+388,Uttar Pradesh,Hardoi,Bharkhani,Safe
+389,Uttar Pradesh,Hardoi,Bhender Kalan,Safe
+390,Uttar Pradesh,Hardoi,Bilgram,Safe
+391,Uttar Pradesh,Hardoi,Hariyawan,Safe
+392,Uttar Pradesh,Hardoi,Harpalpur,Safe
+393,Uttar Pradesh,Hardoi,Kachhauna,Safe
+394,Uttar Pradesh,Hardoi,Kothawan,Safe
+395,Uttar Pradesh,Hardoi,Madhavganj,Safe
+396,Uttar Pradesh,Hardoi,Mallawan,Safe
+397,Uttar Pradesh,Hardoi,Pihani,Safe
+398,Uttar Pradesh,Hardoi,Sandi,Safe
+399,Uttar Pradesh,Hardoi,Sandila,Safe
+400,Uttar Pradesh,Hardoi,Shahabad,Safe
+401,Uttar Pradesh,Hardoi,Sursa,Safe
+402,Uttar Pradesh,Hardoi,Tadiyawan,Safe
+403,Uttar Pradesh,Hardoi,Todarpur,Safe
+404,Uttar Pradesh,Hathras,Hasayan,Safe
+405,Uttar Pradesh,Hathras,Hathras,Critical
+406,Uttar Pradesh,Hathras,Mursan,Over_Exploited
+407,Uttar Pradesh,Hathras,Sadabad,Semi_Critical
+408,Uttar Pradesh,Hathras,Sahpau,Over_Exploited
+409,Uttar Pradesh,Hathras,Sasni,Over_Exploited
+410,Uttar Pradesh,Hathras,Sikandra Rao,Semi_Critical
+411,Uttar Pradesh,Jalaun,Dakor,Safe
+412,Uttar Pradesh,Jalaun,Jalaun,Safe
+413,Uttar Pradesh,Jalaun,Kadaura,Safe
+414,Uttar Pradesh,Jalaun,Konch,Safe
+415,Uttar Pradesh,Jalaun,Kuthond,Safe
+416,Uttar Pradesh,Jalaun,Madhoganj,Safe
+417,Uttar Pradesh,Jalaun,Mahewa,Safe
+418,Uttar Pradesh,Jalaun,Nadigaon,Safe
+419,Uttar Pradesh,Jalaun,Rampura,Safe
+420,Uttar Pradesh,Jaunpur,Badlapur,Semi_Critical
+421,Uttar Pradesh,Jaunpur,Baksha,Safe
+422,Uttar Pradesh,Jaunpur,Barsathi,Safe
+423,Uttar Pradesh,Jaunpur,Dharmapur,Semi_Critical
+424,Uttar Pradesh,Jaunpur,Dobhi,Safe
+425,Uttar Pradesh,Jaunpur,Jalalpur,Safe
+426,Uttar Pradesh,Jaunpur,Karanja Kalan,Semi_Critical
+427,Uttar Pradesh,Jaunpur,Kerakat,Semi_Critical
+428,Uttar Pradesh,Jaunpur,Khutahan,Safe
+429,Uttar Pradesh,Jaunpur,Machhlishahr,Safe
+430,Uttar Pradesh,Jaunpur,Maharajganj,Semi_Critical
+431,Uttar Pradesh,Jaunpur,Mariahu,Safe
+432,Uttar Pradesh,Jaunpur,Muftiganj,Semi_Critical
+433,Uttar Pradesh,Jaunpur,Mungra Badshahpur,Safe
+434,Uttar Pradesh,Jaunpur,Ramnagar,Safe
+435,Uttar Pradesh,Jaunpur,Rampur,Safe
+436,Uttar Pradesh,Jaunpur,Shahganj,Safe
+437,Uttar Pradesh,Jaunpur,Sikrara,Semi_Critical
+438,Uttar Pradesh,Jaunpur,Sirkoni,Semi_Critical
+439,Uttar Pradesh,Jaunpur,Suitha Kalan,Safe
+440,Uttar Pradesh,Jaunpur,Sujanganj,Safe
+441,Uttar Pradesh,Jhansi,Babina,Semi_Critical
+442,Uttar Pradesh,Jhansi,Bamaur,Safe
+443,Uttar Pradesh,Jhansi,Bangra,Semi_Critical
+444,Uttar Pradesh,Jhansi,Baragaon,Semi_Critical
+445,Uttar Pradesh,Jhansi,Chirgaon,Safe
+446,Uttar Pradesh,Jhansi,Gursarai,Safe
+447,Uttar Pradesh,Jhansi,Mauranipur,Semi_Critical
+448,Uttar Pradesh,Jhansi,Moth,Safe
+449,Uttar Pradesh,Kannauj,Chhibramau,Semi_Critical
+450,Uttar Pradesh,Kannauj,Gograpur,Semi_Critical
+451,Uttar Pradesh,Kannauj,Haseran,Safe
+452,Uttar Pradesh,Kannauj,Jalalabad,Over_Exploited
+453,Uttar Pradesh,Kannauj,Kannauj,Critical
+454,Uttar Pradesh,Kannauj,Saurikh,Safe
+455,Uttar Pradesh,Kannauj,Talgram,Over_Exploited
+456,Uttar Pradesh,Kannauj,Umarda,Safe
+457,Uttar Pradesh,Kanpur Dehat,Akbarpur,Semi_Critical
+458,Uttar Pradesh,Kanpur Dehat,Amraudha,Safe
+459,Uttar Pradesh,Kanpur Dehat,Derapur,Semi_Critical
+460,Uttar Pradesh,Kanpur Dehat,Jhinjhak,Safe
+461,Uttar Pradesh,Kanpur Dehat,Maitha,Safe
+462,Uttar Pradesh,Kanpur Dehat,Malsa,Semi_Critical
+463,Uttar Pradesh,Kanpur Dehat,Rajpur,Safe
+464,Uttar Pradesh,Kanpur Dehat,Rasulabad,Safe
+465,Uttar Pradesh,Kanpur Dehat,Sandalpur,Safe
+466,Uttar Pradesh,Kanpur Dehat,Sarwan Khera,Semi_Critical
+467,Uttar Pradesh,Kanpur Nagar,Bhitargaon,Safe
+468,Uttar Pradesh,Kanpur Nagar,Bidhnu,Semi_Critical
+469,Uttar Pradesh,Kanpur Nagar,Bilhaur,Semi_Critical
+470,Uttar Pradesh,Kanpur Nagar,Chaubepur,Critical
+471,Uttar Pradesh,Kanpur Nagar,Ghatampur,Semi_Critical
+472,Uttar Pradesh,Kanpur Nagar,Kakwan,Safe
+473,Uttar Pradesh,Kanpur Nagar,Kalyanpur,Safe
+474,Uttar Pradesh,Kanpur Nagar,Parara,Semi_Critical
+475,Uttar Pradesh,Kanpur Nagar,Sarsol,Semi_Critical
+476,Uttar Pradesh,Kanpur Nagar,Shivrajapur,Semi_Critical
+477,Uttar Pradesh,Kanpur Nagar,Kanpur City,Critical
+478,Uttar Pradesh,Kasganj,Amanpur,Safe
+479,Uttar Pradesh,Kasganj,Ganjdundwara,Semi_Critical
+480,Uttar Pradesh,Kasganj,Kasganj,Semi_Critical
+481,Uttar Pradesh,Kasganj,Patiyali,Semi_Critical
+482,Uttar Pradesh,Kasganj,Sahawar,Safe
+483,Uttar Pradesh,Kasganj,Sidhpura,Safe
+484,Uttar Pradesh,Kasganj,Soron,Safe
+485,Uttar Pradesh,Kaushambi,Chail,Over_Exploited
+486,Uttar Pradesh,Kaushambi,Kara,Semi_Critical
+487,Uttar Pradesh,Kaushambi,Kaushambi,Safe
+488,Uttar Pradesh,Kaushambi,Manjhanpur,Semi_Critical
+489,Uttar Pradesh,Kaushambi,Muratganj,Over_Exploited
+490,Uttar Pradesh,Kaushambi,Newada,Semi_Critical
+491,Uttar Pradesh,Kaushambi,Sarsawan,Safe
+492,Uttar Pradesh,Kaushambi,Sirathu,Semi_Critical
+493,Uttar Pradesh,Kushi Nagar,Dudhahi,Safe
+494,Uttar Pradesh,Kushi Nagar,Fazil Nagar,Safe
+495,Uttar Pradesh,Kushi Nagar,Hata,Safe
+496,Uttar Pradesh,Kushi Nagar,Kaptanganj,Safe
+497,Uttar Pradesh,Kushi Nagar,Kasya,Safe
+498,Uttar Pradesh,Kushi Nagar,Khadda,Safe
+499,Uttar Pradesh,Kushi Nagar,Motichak,Safe
+500,Uttar Pradesh,Kushi Nagar,Nedua Naurangiya,Safe
+501,Uttar Pradesh,Kushi Nagar,Padrauna,Safe
+502,Uttar Pradesh,Kushi Nagar,Ramkola,Safe
+503,Uttar Pradesh,Kushi Nagar,Siwarhi,Safe
+504,Uttar Pradesh,Kushi Nagar,Sukrauli,Safe
+505,Uttar Pradesh,Kushi Nagar,Tamkuhi Raj,Safe
+506,Uttar Pradesh,Kushi Nagar,Vishunpurwa,Safe
+507,Uttar Pradesh,Lakhimpur Kheri,Bankeyganj,Safe
+508,Uttar Pradesh,Lakhimpur Kheri,Behjam,Safe
+509,Uttar Pradesh,Lakhimpur Kheri,Bijua,Safe
+510,Uttar Pradesh,Lakhimpur Kheri,Dhaurahara,Safe
+511,Uttar Pradesh,Lakhimpur Kheri,Isanagar,Safe
+512,Uttar Pradesh,Lakhimpur Kheri,Kumbhigola,Safe
+513,Uttar Pradesh,Lakhimpur Kheri,Lakhimpur,Safe
+514,Uttar Pradesh,Lakhimpur Kheri,Mitauli,Safe
+515,Uttar Pradesh,Lakhimpur Kheri,Mohammadi,Safe
+516,Uttar Pradesh,Lakhimpur Kheri,Nakaha,Safe
+517,Uttar Pradesh,Lakhimpur Kheri,Nighasan,Safe
+518,Uttar Pradesh,Lakhimpur Kheri,Palia,Safe
+519,Uttar Pradesh,Lakhimpur Kheri,Pasgawan,Safe
+520,Uttar Pradesh,Lakhimpur Kheri,Phulbehar,Safe
+521,Uttar Pradesh,Lakhimpur Kheri,Ramiabehar,Safe
+522,Uttar Pradesh,Lalitpur,Bar,Semi_Critical
+523,Uttar Pradesh,Lalitpur,Birdha,Semi_Critical
+524,Uttar Pradesh,Lalitpur,Jakhora,Semi_Critical
+525,Uttar Pradesh,Lalitpur,Mandwara,Semi_Critical
+526,Uttar Pradesh,Lalitpur,Mahroni,Semi_Critical
+527,Uttar Pradesh,Lalitpur,Talbehat,Semi_Critical
+528,Uttar Pradesh,Lucknow,Bakshi Ka Talab,Safe
+529,Uttar Pradesh,Lucknow,Chinhat,Safe
+530,Uttar Pradesh,Lucknow,Gosaiganj,Safe
+531,Uttar Pradesh,Lucknow,Kakori,Safe
+532,Uttar Pradesh,Lucknow,Mal,Safe
+533,Uttar Pradesh,Lucknow,Malihabad,Semi_Critical
+534,Uttar Pradesh,Lucknow,Mohanlalganj,Safe
+535,Uttar Pradesh,Lucknow,Sarojni Nagar,Safe
+536,Uttar Pradesh,Lucknow,Lucknow City,Over_Exploited
+537,Uttar Pradesh,Mahoba,Charkhari,Semi_Critical
+538,Uttar Pradesh,Mahoba,Jaitpur,Over_Exploited
+539,Uttar Pradesh,Mahoba,Kabrai,Semi_Critical
+540,Uttar Pradesh,Mahoba,Panwari,Over_Exploited
+541,Uttar Pradesh,Mahrajganj,Brijmanganj,Safe
+542,Uttar Pradesh,Mahrajganj,Dhani,Safe
+543,Uttar Pradesh,Mahrajganj,Ghughuli,Safe
+544,Uttar Pradesh,Mahrajganj,Lakshmipur,Safe
+545,Uttar Pradesh,Mahrajganj,Maharajganj,Safe
+546,Uttar Pradesh,Mahrajganj,Mithaura,Safe
+547,Uttar Pradesh,Mahrajganj,Nautanwa,Safe
+548,Uttar Pradesh,Mahrajganj,Nichlaul,Safe
+549,Uttar Pradesh,Mahrajganj,Paniara,Safe
+550,Uttar Pradesh,Mahrajganj,Partawal,Safe
+551,Uttar Pradesh,Mahrajganj,Pharenda,Safe
+552,Uttar Pradesh,Mahrajganj,Siswa Bazar,Safe
+553,Uttar Pradesh,Mainpuri,Barnahal,Over_Exploited
+554,Uttar Pradesh,Mainpuri,Bewar,Safe
+555,Uttar Pradesh,Mainpuri,Ghiror,Safe
+556,Uttar Pradesh,Mainpuri,Jagir,Semi_Critical
+557,Uttar Pradesh,Mainpuri,Karhal,Safe
+558,Uttar Pradesh,Mainpuri,Kishni,Safe
+559,Uttar Pradesh,Mainpuri,Kurawali,Semi_Critical
+560,Uttar Pradesh,Mainpuri,Mainpuri,Semi_Critical
+561,Uttar Pradesh,Mainpuri,Sultanganj,Safe
+562,Uttar Pradesh,Mathura,Baldeo,Critical
+563,Uttar Pradesh,Mathura,Chaumuhan,Safe
+564,Uttar Pradesh,Mathura,Chhata,Safe
+565,Uttar Pradesh,Mathura,Farah,Safe
+566,Uttar Pradesh,Mathura,Govardhan,Safe
+567,Uttar Pradesh,Mathura,Mat,Safe
+568,Uttar Pradesh,Mathura,Mathura,Safe
+569,Uttar Pradesh,Mathura,Nandgaon,Safe
+570,Uttar Pradesh,Mathura,Nohjhil,Critical
+571,Uttar Pradesh,Mathura,Raya,Over_Exploited
+572,Uttar Pradesh,Maunath Bhanjan,Badraon,Safe
+573,Uttar Pradesh,Maunath Bhanjan,Dohri Ghat,Safe
+574,Uttar Pradesh,Maunath Bhanjan,Fatehpur Madraun,Safe
+575,Uttar Pradesh,Maunath Bhanjan,Ghosi,Safe
+576,Uttar Pradesh,Maunath Bhanjan,Kopaganj,Safe
+577,Uttar Pradesh,Maunath Bhanjan,Mohammadabad,Safe
+578,Uttar Pradesh,Maunath Bhanjan,Pardaha,Safe
+579,Uttar Pradesh,Maunath Bhanjan,Ranipur,Safe
+580,Uttar Pradesh,Maunath Bhanjan,Ratanpura,Safe
+581,Uttar Pradesh,Meerut,Daurala,Semi_Critical
+582,Uttar Pradesh,Meerut,Hastinapur,Safe
+583,Uttar Pradesh,Meerut,Jani,Safe
+584,Uttar Pradesh,Meerut,Kharkhoda,Critical
+585,Uttar Pradesh,Meerut,Machhra,Critical
+586,Uttar Pradesh,Meerut,Mawana Kalan,Semi_Critical
+587,Uttar Pradesh,Meerut,Meerut,Semi_Critical
+588,Uttar Pradesh,Meerut,Parichhatgarh,Semi_Critical
+589,Uttar Pradesh,Meerut,Rajpura,Semi_Critical
+590,Uttar Pradesh,Meerut,Rohta,Safe
+591,Uttar Pradesh,Meerut,Sardhana,Safe
+592,Uttar Pradesh,Meerut,Sarurpur,Semi_Critical
+593,Uttar Pradesh,Meerut,Meerut City,Over_Exploited
+594,Uttar Pradesh,Mirzapur,Chanbey,Safe
+595,Uttar Pradesh,Mirzapur,City,Semi_Critical
+596,Uttar Pradesh,Mirzapur,Hallia,Safe
+597,Uttar Pradesh,Mirzapur,Jamalpur,Safe
+598,Uttar Pradesh,Mirzapur,Kon,Critical
+599,Uttar Pradesh,Mirzapur,Lalganj,Safe
+600,Uttar Pradesh,Mirzapur,Majhawan,Critical
+601,Uttar Pradesh,Mirzapur,Marihan,Safe
+602,Uttar Pradesh,Mirzapur,Narayanpur,Safe
+603,Uttar Pradesh,Mirzapur,Pahari,Safe
+604,Uttar Pradesh,Mirzapur,Rajgarh,Safe
+605,Uttar Pradesh,Mirzapur,Sikhar,Semi_Critical
+606,Uttar Pradesh,Moradabad,Bilari,Critical
+607,Uttar Pradesh,Moradabad,Chhajlet,Semi_Critical
+608,Uttar Pradesh,Moradabad,Dilari,Semi_Critical
+609,Uttar Pradesh,Moradabad,Kundarki (Dengapur),Semi_Critical
+610,Uttar Pradesh,Moradabad,Moradabad,Semi_Critical
+611,Uttar Pradesh,Moradabad,Mundapandey,Semi_Critical
+612,Uttar Pradesh,Moradabad,Thakurdwara,Safe
+613,Uttar Pradesh,Moradabad,Bhagatpur,Safe
+614,Uttar Pradesh,Moradabad,Moradabad City,Over_Exploited
+615,Uttar Pradesh,Muzaffarnagar,Bhaghara,Over_Exploited
+616,Uttar Pradesh,Muzaffarnagar,Budhana,Critical
+617,Uttar Pradesh,Muzaffarnagar,Charthawal,Critical
+618,Uttar Pradesh,Muzaffarnagar,Jansath,Safe
+619,Uttar Pradesh,Muzaffarnagar,Khatauli,Safe
+620,Uttar Pradesh,Muzaffarnagar,Morna,Safe
+621,Uttar Pradesh,Muzaffarnagar,Muzaffarnagar,Critical
+622,Uttar Pradesh,Muzaffarnagar,Purqaji,Semi_Critical
+623,Uttar Pradesh,Muzaffarnagar,Shahpur,Semi_Critical
+624,Uttar Pradesh,Pilibhit,Amaria,Safe
+625,Uttar Pradesh,Pilibhit,Barkhera,Safe
+626,Uttar Pradesh,Pilibhit,Bilsanda,Safe
+627,Uttar Pradesh,Pilibhit,Bisalpur,Safe
+628,Uttar Pradesh,Pilibhit,Lalaurikhera,Safe
+629,Uttar Pradesh,Pilibhit,Marauri,Safe
+630,Uttar Pradesh,Pilibhit,Puranpur,Safe
+631,Uttar Pradesh,Pratapgarh,Aspur Deosara,Safe
+632,Uttar Pradesh,Pratapgarh,Baba Belkhar Nath,Semi_Critical
+633,Uttar Pradesh,Pratapgarh,Babaganj,Safe
+634,Uttar Pradesh,Pratapgarh,Bihar,Safe
+635,Uttar Pradesh,Pratapgarh,Gaura,Semi_Critical
+636,Uttar Pradesh,Pratapgarh,Kalanker,Safe
+637,Uttar Pradesh,Pratapgarh,Kunda,Safe
+638,Uttar Pradesh,Pratapgarh,Lakshamanpur,Semi_Critical
+639,Uttar Pradesh,Pratapgarh,Lalganj,Semi_Critical
+640,Uttar Pradesh,Pratapgarh,Mandhata,Critical
+641,Uttar Pradesh,Pratapgarh,Mangaraura,Semi_Critical
+642,Uttar Pradesh,Pratapgarh,Patti,Semi_Critical
+643,Uttar Pradesh,Pratapgarh,Rampur-Sangramgarh,Semi_Critical
+644,Uttar Pradesh,Pratapgarh,Sadar,Critical
+645,Uttar Pradesh,Pratapgarh,Sandwa Chandika,Critical
+646,Uttar Pradesh,Pratapgarh,Sangaipur,Safe
+647,Uttar Pradesh,Pratapgarh,Shivgarh,Critical
+648,Uttar Pradesh,Prayagraj,Bahadurpur,Semi_Critical
+649,Uttar Pradesh,Prayagraj,Baharia,Safe
+650,Uttar Pradesh,Prayagraj,Chaka,Critical
+651,Uttar Pradesh,Prayagraj,Dhanupur,Semi_Critical
+652,Uttar Pradesh,Prayagraj,Handia,Safe
+653,Uttar Pradesh,Prayagraj,Holagarh,Safe
+654,Uttar Pradesh,Prayagraj,Jasra,Safe
+655,Uttar Pradesh,Prayagraj,Karchana,Safe
+656,Uttar Pradesh,Prayagraj,Kaudhiyara,Safe
+657,Uttar Pradesh,Prayagraj,Kaurihar,Semi_Critical
+658,Uttar Pradesh,Prayagraj,Koraon,Safe
+659,Uttar Pradesh,Prayagraj,Manda,Safe
+660,Uttar Pradesh,Prayagraj,Mauaima,Semi_Critical
+661,Uttar Pradesh,Prayagraj,Meja,Safe
+662,Uttar Pradesh,Prayagraj,Phulpur,Semi_Critical
+663,Uttar Pradesh,Prayagraj,Pratappur,Semi_Critical
+664,Uttar Pradesh,Prayagraj,Saidabad,Semi_Critical
+665,Uttar Pradesh,Prayagraj,Shankargarh,Safe
+666,Uttar Pradesh,Prayagraj,Soraon,Safe
+667,Uttar Pradesh,Prayagraj,Uruwan,Safe
+668,Uttar Pradesh,Prayagraj,Bhagwatpur,Safe
+669,Uttar Pradesh,Prayagraj,Sahson,Critical
+670,Uttar Pradesh,Prayagraj,Shringverpur Dham,Semi_Critical
+671,Uttar Pradesh,Prayagraj,Prayagraj City,Over_Exploited
+672,Uttar Pradesh,Raibareli,Amawan,Safe
+673,Uttar Pradesh,Raibareli,Bachrawan,Safe
+674,Uttar Pradesh,Raibareli,Dalmau,Safe
+675,Uttar Pradesh,Raibareli,Deensah Gaura,Safe
+676,Uttar Pradesh,Raibareli,Harchandpur,Safe
+677,Uttar Pradesh,Raibareli,Jagatpur,Safe
+678,Uttar Pradesh,Raibareli,Khiron,Safe
+679,Uttar Pradesh,Raibareli,Lalganj,Safe
+680,Uttar Pradesh,Raibareli,Maharajganj,Safe
+681,Uttar Pradesh,Raibareli,Rahi,Safe
+682,Uttar Pradesh,Raibareli,Rohaniya,Safe
+683,Uttar Pradesh,Raibareli,Saraini,Safe
+684,Uttar Pradesh,Raibareli,Satawan,Safe
+685,Uttar Pradesh,Raibareli,Shivgarh,Safe
+686,Uttar Pradesh,Raibareli,Unchahar,Safe
+687,Uttar Pradesh,Raibareli,Chhatoh,Safe
+688,Uttar Pradesh,Raibareli,Dih,Safe
+689,Uttar Pradesh,Raibareli,Salaon,Safe
+690,Uttar Pradesh,Rampur,Bilaspur,Safe
+691,Uttar Pradesh,Rampur,Chamrauwa,Semi_Critical
+692,Uttar Pradesh,Rampur,Milak,Safe
+693,Uttar Pradesh,Rampur,Said Nagar,Semi_Critical
+694,Uttar Pradesh,Rampur,Saur,Semi_Critical
+695,Uttar Pradesh,Rampur,Shahabad,Semi_Critical
+696,Uttar Pradesh,Saharanpur,Ballia Kheri,Semi_Critical
+697,Uttar Pradesh,Saharanpur,Deoband,Semi_Critical
+698,Uttar Pradesh,Saharanpur,Gangoh,Over_Exploited
+699,Uttar Pradesh,Saharanpur,Muzaffarabad,Safe
+700,Uttar Pradesh,Saharanpur,Nagal,Over_Exploited
+701,Uttar Pradesh,Saharanpur,Nakur,Over_Exploited
+702,Uttar Pradesh,Saharanpur,Nanauta,Semi_Critical
+703,Uttar Pradesh,Saharanpur,Punwarka,Safe
+704,Uttar Pradesh,Saharanpur,Rampur Maniharan,Semi_Critical
+705,Uttar Pradesh,Saharanpur,Sadhauli Kadeem,Semi_Critical
+706,Uttar Pradesh,Saharanpur,Sarsawa,Over_Exploited
+707,Uttar Pradesh,Sambhal,Asmoli,Semi_Critical
+708,Uttar Pradesh,Sambhal,Bahjoi,Semi_Critical
+709,Uttar Pradesh,Sambhal,Baniakhera,Critical
+710,Uttar Pradesh,Sambhal,Gunnaur,Semi_Critical
+711,Uttar Pradesh,Sambhal,Janawai,Semi_Critical
+712,Uttar Pradesh,Sambhal,Pawansa,Critical
+713,Uttar Pradesh,Sambhal,Rajpura,Safe
+714,Uttar Pradesh,Sambhal,Sambhal,Critical
+715,Uttar Pradesh,Sant Kabir Nagar,Baghauli,Safe
+716,Uttar Pradesh,Sant Kabir Nagar,Haisar Bazar,Safe
+717,Uttar Pradesh,Sant Kabir Nagar,Khalilabad,Safe
+718,Uttar Pradesh,Sant Kabir Nagar,Mehdawal,Safe
+719,Uttar Pradesh,Sant Kabir Nagar,Nath Nagar,Safe
+720,Uttar Pradesh,Sant Kabir Nagar,Pauli,Safe
+721,Uttar Pradesh,Sant Kabir Nagar,Santha,Safe
+722,Uttar Pradesh,Sant Kabir Nagar,Semariyawan,Safe
+723,Uttar Pradesh,Sant Kabir Nagar,Velhar Klan,Safe
+724,Uttar Pradesh,Sant Ravidas Nagar,Abhauli,Semi_Critical
+725,Uttar Pradesh,Sant Ravidas Nagar,Aurai,Semi_Critical
+726,Uttar Pradesh,Sant Ravidas Nagar,Bhadohi,Semi_Critical
+727,Uttar Pradesh,Sant Ravidas Nagar,Deegh,Semi_Critical
+728,Uttar Pradesh,Sant Ravidas Nagar,Gyanpur,Semi_Critical
+729,Uttar Pradesh,Sant Ravidas Nagar,Suriyawan,Semi_Critical
+730,Uttar Pradesh,Shahjahanpur,Banda,Safe
+731,Uttar Pradesh,Shahjahanpur,Bhawal Khera,Safe
+732,Uttar Pradesh,Shahjahanpur,Dadrol,Safe
+733,Uttar Pradesh,Shahjahanpur,Jaitpur,Safe
+734,Uttar Pradesh,Shahjahanpur,Jalalabad,Safe
+735,Uttar Pradesh,Shahjahanpur,Kalan,Safe
+736,Uttar Pradesh,Shahjahanpur,Kanth,Safe
+737,Uttar Pradesh,Shahjahanpur,Katra,Safe
+738,Uttar Pradesh,Shahjahanpur,Khutar,Safe
+739,Uttar Pradesh,Shahjahanpur,Madanapur,Safe
+740,Uttar Pradesh,Shahjahanpur,Mirzapur,Safe
+741,Uttar Pradesh,Shahjahanpur,Nigohi,Safe
+742,Uttar Pradesh,Shahjahanpur,Puyawan,Safe
+743,Uttar Pradesh,Shahjahanpur,Sindhauli,Safe
+744,Uttar Pradesh,Shahjahanpur,Tilhar,Safe
+745,Uttar Pradesh,Shamli,Kairana,Critical
+746,Uttar Pradesh,Shamli,Kandhala,Critical
+747,Uttar Pradesh,Shamli,Shamli,Over_Exploited
+748,Uttar Pradesh,Shamli,Thana Bhawan,Semi_Critical
+749,Uttar Pradesh,Shamli,Un,Over_Exploited
+750,Uttar Pradesh,Shrawasti,Gilaula,Safe
+751,Uttar Pradesh,Shrawasti,Hariharpur Rani,Safe
+752,Uttar Pradesh,Shrawasti,Ikauna,Safe
+753,Uttar Pradesh,Shrawasti,Jamunaha,Safe
+754,Uttar Pradesh,Shrawasti,Sirsiya,Safe
+755,Uttar Pradesh,Siddharth Nagar,Bansi,Safe
+756,Uttar Pradesh,Siddharth Nagar,Barhani,Safe
+757,Uttar Pradesh,Siddharth Nagar,Bhanwapur,Safe
+758,Uttar Pradesh,Siddharth Nagar,Birdpur,Safe
+759,Uttar Pradesh,Siddharth Nagar,Domariaganj,Safe
+760,Uttar Pradesh,Siddharth Nagar,Itwa,Safe
+761,Uttar Pradesh,Siddharth Nagar,Jogiya,Safe
+762,Uttar Pradesh,Siddharth Nagar,Khesrha,Safe
+763,Uttar Pradesh,Siddharth Nagar,Khuniyaw,Safe
+764,Uttar Pradesh,Siddharth Nagar,Lotan,Safe
+765,Uttar Pradesh,Siddharth Nagar,Mithwal,Safe
+766,Uttar Pradesh,Siddharth Nagar,Naugarh,Safe
+767,Uttar Pradesh,Siddharth Nagar,Shohatgarh,Safe
+768,Uttar Pradesh,Siddharth Nagar,Uska Bazar,Safe
+769,Uttar Pradesh,Sitapur,Ailia,Safe
+770,Uttar Pradesh,Sitapur,Behta,Safe
+771,Uttar Pradesh,Sitapur,Biswan,Safe
+772,Uttar Pradesh,Sitapur,Gondlamau,Safe
+773,Uttar Pradesh,Sitapur,Hargaon,Safe
+774,Uttar Pradesh,Sitapur,Kasmanda,Safe
+775,Uttar Pradesh,Sitapur,Khairabad,Safe
+776,Uttar Pradesh,Sitapur,Laharpur,Safe
+777,Uttar Pradesh,Sitapur,Machhrehta,Safe
+778,Uttar Pradesh,Sitapur,Mahmudabad,Safe
+779,Uttar Pradesh,Sitapur,Maholi,Safe
+780,Uttar Pradesh,Sitapur,Misrikh,Safe
+781,Uttar Pradesh,Sitapur,Pahala,Safe
+782,Uttar Pradesh,Sitapur,Parsendi,Safe
+783,Uttar Pradesh,Sitapur,Pisawan,Safe
+784,Uttar Pradesh,Sitapur,Rampur Mathura,Safe
+785,Uttar Pradesh,Sitapur,Rewsa,Safe
+786,Uttar Pradesh,Sitapur,Sakran,Safe
+787,Uttar Pradesh,Sitapur,Sidhauli,Safe
+788,Uttar Pradesh,Sonbhadra,Babhani,Safe
+789,Uttar Pradesh,Sonbhadra,Chatra,Safe
+790,Uttar Pradesh,Sonbhadra,Chopan,Safe
+791,Uttar Pradesh,Sonbhadra,Dudhi,Semi_Critical
+792,Uttar Pradesh,Sonbhadra,Ghorawal,Safe
+793,Uttar Pradesh,Sonbhadra,Myorpur,Safe
+794,Uttar Pradesh,Sonbhadra,Nagawa,Safe
+795,Uttar Pradesh,Sonbhadra,Robertsganj,Safe
+796,Uttar Pradesh,Sonbhadra,Karma,Safe
+797,Uttar Pradesh,Sonbhadra,Kone,Safe
+798,Uttar Pradesh,Sultanpur,Akhand Nagar,Safe
+799,Uttar Pradesh,Sultanpur,Baldirai,Safe
+800,Uttar Pradesh,Sultanpur,Bhadaiyan,Safe
+801,Uttar Pradesh,Sultanpur,Dhanpatganj,Safe
+802,Uttar Pradesh,Sultanpur,Dostpur,Safe
+803,Uttar Pradesh,Sultanpur,Dubepur,Safe
+804,Uttar Pradesh,Sultanpur,Jai Singhpur,Safe
+805,Uttar Pradesh,Sultanpur,Kadipur,Safe
+806,Uttar Pradesh,Sultanpur,Kurebhar,Safe
+807,Uttar Pradesh,Sultanpur,Kurwar,Safe
+808,Uttar Pradesh,Sultanpur,Lambhua,Safe
+809,Uttar Pradesh,Sultanpur,Motigarpur,Safe
+810,Uttar Pradesh,Sultanpur,P.P. Kannaicha,Safe
+811,Uttar Pradesh,Sultanpur,Karondikala,Safe
+812,Uttar Pradesh,Unnao,Asoha,Safe
+813,Uttar Pradesh,Unnao,Auras,Safe
+814,Uttar Pradesh,Unnao,Bangarmau,Safe
+815,Uttar Pradesh,Unnao,Bichhia,Safe
+816,Uttar Pradesh,Unnao,Bighapur,Safe
+817,Uttar Pradesh,Unnao,Fatehpur Chaurasi,Safe
+818,Uttar Pradesh,Unnao,Gang Muradabad,Safe
+819,Uttar Pradesh,Unnao,Hasanganj,Safe
+820,Uttar Pradesh,Unnao,Hilauli,Safe
+821,Uttar Pradesh,Unnao,Mianganj,Safe
+822,Uttar Pradesh,Unnao,Nawabganj,Safe
+823,Uttar Pradesh,Unnao,Purwa,Safe
+824,Uttar Pradesh,Unnao,Safipur,Safe
+825,Uttar Pradesh,Unnao,Sikandar Sirausi,Safe
+826,Uttar Pradesh,Unnao,Sikandarpur Karan,Safe
+827,Uttar Pradesh,Unnao,Sumerpur,Safe
+828,Uttar Pradesh,Varanasi,Araziline,Over_Exploited
+829,Uttar Pradesh,Varanasi,Baragaon,Safe
+830,Uttar Pradesh,Varanasi,Chiraigaon,Critical
+831,Uttar Pradesh,Varanasi,Cholapur,Safe
+832,Uttar Pradesh,Varanasi,Harahua,Over_Exploited
+833,Uttar Pradesh,Varanasi,Kashi Vidyapith,Semi_Critical
+834,Uttar Pradesh,Varanasi,Pindra,Semi_Critical
+835,Uttar Pradesh,Varanasi,Sevapuri,Semi_Critical
+836,Uttar Pradesh,Varanasi,Varanasi City,Over_Exploited
